@@ -70,3 +70,4 @@ node build/shots.mjs                     # new BIOS screenshots into build/img/s
 - [miniVIC_games](https://github.com/Boogs77/miniVIC_games): games
 - [miniVIC_music](https://github.com/Boogs77/miniVIC_music): music
 - [BO6502-miniVIC-emulator](https://github.com/Boogs77/BO6502-miniVIC-emulator): browser emulator
+- [bo6502-SDbuilder](https://github.com/Boogs77/bo6502-SDbuilder): SD card builder
