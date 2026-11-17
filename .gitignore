@@ -1,0 +1,15 @@
+# local only
+CLAUDE.md
+.claude/
+COP-manual.pdf
+
+# build by-products
+__pycache__/
+build/_tmp_*.pdf
+build/shots.out.mjs
+build/tests/
+build/img/grey/
+
+# first cover (PCB engraving), not used any more
+build/engrave.py
+build/img/cover_engraving.jpg
